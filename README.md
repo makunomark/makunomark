@@ -1,5 +1,4 @@
 <a href="https://twitter.com/thatmarc_" target="_blank" rel="nofollow"><img align="right" alt="Mark's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-
 <a href="https://www.linkedin.com/in/mark-makuno-188175100" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <h3>👋 Hi! I'm Mark</h3>
