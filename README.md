@@ -8,8 +8,8 @@
 
 I am a full-stack developer. Most of my week is usually spent writing code to help sell bananas 🍌. 
 
-- 🏢 I'm currently working at Twiga Foods
-- ⚙️ I use daily: `.kt`, `.js`, `.java`
+- 🏢 I currently work at Twiga Foods
+- ⚙️ I use `.kt`, `.js` & `.java` daily
 - 🌱 I’m currently re-learning Data Structures & Algorithms
 - 💬 Ask me about Android, Kotlin or JS
 
