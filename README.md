@@ -12,5 +12,3 @@ I am a full-stack developer. Most of my week is usually spent writing code to he
 - ⚙️ I use `.kt`, `.js` & `.java` daily
 - 🌱 I’m currently re-learning Data Structures & Algorithms
 - 💬 Ask me about Android, Kotlin or JS
-
-![Mark's github stats](https://github-readme-stats.vercel.app/api?username=makunomark&show_icons=true&hide_border=true)
