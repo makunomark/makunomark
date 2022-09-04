@@ -1,11 +1,9 @@
-<a href="https://www.linkedin.com/in/mark-makuno-188175100" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<h3>👋 Hi! I'm Mark</h3>
+<h3>👋🏼 Hi there! I'm Mark, an optimistic software engineer </h3>
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makunomark&label=Views&color=blue&style=plastic" alt="makunomark"></p>
 
-I am a full-stack developer. Most of my week is usually spent writing code to help my users achieve more
+A lad from [the city under the sun](https://en.wikipedia.org/wiki/Nairobi) who writes code that helps users achive more. I mostly write React Native with Typescript. Before, I built for Android using Kotlin & Java, Backend using NodeJs persisting data on MongoDb or Postgres or Firebase in express js or adonis js deployed on heroku and Frontend using Vue or React deployed on Netlify. Feel free to chat about open source, arduinos and ESP32 or anything tech on [LinkedIn](https://www.linkedin.com/in/mark-makuno-188175100) or on [Twitter](https://twitter.com/thatmarc_). 
 
-- ⚙️ I use `.ts`, `.js` & `.swift` daily
+![Alt Text](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
