@@ -1,4 +1,4 @@
-<h3>👋🏼 Hi there! I'm Mark, an optimistic software engineer </h3>
+<h3>👋🏼 Hi there! I'm Mark, a Mobile & Web Software Engineer</h3>
 
 ---
 
